@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi,I'm Akanksha Deshmukh 👋
+Welcome to my GitHub profile!I'm a AIML student passionate about python,data analytics & AI/ML
+I enjoy working on machine learning projects, python projects & data analytics and exploring new tools in the field of AIML
 
-<!--
-**akankshadeshmukh715-beep/akankshadeshmukh715-beep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tools & Technologies
 
-Here are some ideas to get you started:
+📊Languages: Python,C,HTML,Java,SQL
+📚Libraries: pandas, NumPy, scikit-learn, Matplotlib, seaborn, 
+🧠ML/DL: Classification, Regression, Clustering, Neural Networks
+🛠️Tools: Jupyter Notebook, VS Code, Git, Git, GitHub, Excel, Power BI
+☁️Cloud: Google Colab, Kaggle Kernels
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Current Learning Goals Improving data 
